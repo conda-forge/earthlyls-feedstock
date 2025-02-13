@@ -1,5 +1,5 @@
 context:
-  version: 0.5.3
+  version: "0.5.5"
 
 package:
   name: earthlyls
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/glehmann/earthlyls/archive/${{ version }}.tar.gz
-  sha256: 7b3a44cc82b9c06566908da45b4a4c2d8668801f926afb9856e14c7935602ffb
+  sha256: 19207937f8c11f0be455a9f46fa6a7bec857a9e7fdec0174f1fd00c153172875
 
 build:
   number: 0
